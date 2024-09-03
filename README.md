@@ -18,3 +18,6 @@ It reads from Addresses.txt, to modify Patch.pnach with it.
 <br>EzAdvanceClock.py:
 
 Reads from Addresses.txt and Opcodes.txt and generates a Hooks.txt
+
+<br>Ez_address_increment.py:
+Reads two offsets from Addresses.txt and adds the missing offsets. Example: 0x04 and 0xc are missing 0x8 in the middle. It adds that.
