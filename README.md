@@ -14,3 +14,7 @@ Reads from Addresses.txt and Opcodes.txt and generates a Patch.pnach.
 
 <br>Ez_Pnach_Address_Shift.py:
 It reads from Patch.pnach and modifies it.
+
+<br>EzAdvanceClock.py:
+
+Reads from Addresses.txt and Opcodes.txt and generates a Hooks.txt
