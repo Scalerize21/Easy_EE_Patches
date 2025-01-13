@@ -13,7 +13,7 @@ Reads from Addresses.txt and Opcodes.txt and generates a Patch.pnach.
 <br>EzUnPnach.py is a reverse of it.
 
 <br>Ez_Pnach_Address_Shift.py:
-It reads from Addresses.txt, to modify Patch.pnach with it.
+It reads from Addresses.txt, and lowers, raises the offsets, then modifies Patch.pnach with it.
 
 <br>EzAdvanceClock.py:
 
